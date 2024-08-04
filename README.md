@@ -11,9 +11,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 🎨 My Latest Projects
 
-[Project 1]
+[qb-wheelchair]
 
-    🔗 [[qb-wheelchair](https://github.com/Zartoz/qb-wheelchair)]
+    🔗 [https://github.com/Zartoz/qb-wheelchair]
     📝 [This script allows players to spawn a wheelchair vehicle by using an item called wheelchair in QBCore framework.]
 
 [Project 2]
