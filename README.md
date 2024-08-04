@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 🚀 About Me
 
-    🌍 Location: [Your Location]
+    🌍 Location: [Greece 🇬🇷 ]
     🎓 Currently Learning: [TypeScript & Advanced HTML]
     🛠️ Technologies & Tools:
         💻 Programming Languages: [Lua, Python]
