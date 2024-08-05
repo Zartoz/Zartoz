@@ -1,4 +1,4 @@
-👋 Hello, I'm [Zartoz]!
+👋 Hello, I'm Zartoz!
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
