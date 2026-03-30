@@ -1,4 +1,9 @@
-[![model-1-removebg-preview-(1).png](https://i.postimg.cc/3xTDrYrn/model-1-removebg-preview-(1).png)](https://postimg.cc/4mW3BC99)
+<a href="https://postimg.cc/NyzTV92m">
+  <img src="https://i.postimg.cc/sXVcM5V6/model-5-removebg-preview.png" alt="Zartoz" width="350" />
+</a>
+
+
+
 ## Hey! 👋
 
 I'm **Zartoz**, a developer who enjoys building cool things for the web and beyond.
