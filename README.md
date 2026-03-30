@@ -1,8 +1,7 @@
-![zartoz](https://i.ibb.co/DP40yWG0/ABOUTME.gif) 
-
+[![model-1-removebg-preview-(1).png](https://i.postimg.cc/3xTDrYrn/model-1-removebg-preview-(1).png)](https://postimg.cc/4mW3BC99)
 ## Hey! 👋
 
-I'm **z1rtoz**, a developer who enjoys building cool things for the web and beyond.
+I'm **Zartoz**, a developer who enjoys building cool things for the web and beyond.
 
 - 👨‍💻 Working with code, design, and creative ideas
 - 🚀 Building projects and always learning new tech
